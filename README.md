@@ -45,3 +45,8 @@ __________________________________________
 Technology
 
 By using the TouchDesigner multimedia development environment, we can make sure every station is working on the same infrastructure and can focus on the remote performance rather than troubleshooting for hours. As every station is only receiving one audiovisual stream and sending one audiovisual stream, the bandwidth available to each station doesn’t have to be gigantic. By collecting local recordings we avoid the issue of receiving all the stations streams on one server but can document the complete performance.
+
+I am super exited, to finally try this and I am thankful for all the great artists that have agreed to play with us!
+
+Yours,
+Stefan Kraus / MXZEHN / The NODE Institute
