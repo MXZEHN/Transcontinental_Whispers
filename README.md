@@ -18,11 +18,10 @@ This creates a gigantic looping machine, as the signal requires approximately 20
 None of the performers will have a complete overview and the performance will be strictly improvised. Nobody knows what is going to happen on December 6th! The audience will be able to follow the performance at aejaa - a new online performance space for real time remote collaboration - where Christos Atzinos and Andreas Levisianos mix the final stream.
 
 Audiovisual Performers:
-Markus Heckmann (Toronto), Richard Burns (Tokyo), Tim Gerritsen (Amsterdam) [T.B.C]
-Vincent Naples (Los Angeles), Stefan Kraus (Berlin), Shandor Chury (Paris)
+Markus Heckmann (Toronto), Richard Burns (Tokyo), Tim Gerritsen (Amsterdam), Vincent Naples (Los Angeles), Stefan Kraus (Berlin), Shandor Chury (Paris)
 
-Local Support: 
-Carlos Serrano, Wieland Hilker
+Tech Support:
+Markus Heckmann,Carlos Serrano, Wieland Hilker
 
 Audio Mix: Andreas Levisianos / aejaa
 Video Mix: Christos Atzinos / aejaa
