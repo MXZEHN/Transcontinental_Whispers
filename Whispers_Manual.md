@@ -1,6 +1,8 @@
 # Transcontinental Whispers
 A transcontinental, collaborative Performance
 
+// built for TouchDesigner 42700
+
 Dear Artists,
 
 thank you for participating in this experiment.
