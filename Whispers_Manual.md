@@ -21,6 +21,13 @@ There are a few simple rules to follow, so the concept can unfold.
 
 6.) This mean that it is advisable to start with very minimal interventions until we all have a feeling for the machine we are playing.
 
+7.) Last but not least: Every Station should make a local recording, so we can document the whole process later (for example in an exhibition with 6 screens)
+
+Just start the recording on the OUT component and save
+the TouchScene on a Drive with enough free space.
+
+It would be great if you could upload the recording afterwards to a cloud service of your choice and send me the link.
+
 If you have any questions, please write me at stefan.kraus@mxzehn.de
 
 I am very much looking forward to this!
