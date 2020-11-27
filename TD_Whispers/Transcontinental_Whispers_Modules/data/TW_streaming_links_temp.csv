@@ -1,0 +1,7 @@
+Artist,Location,TW_station/Streaming links,Strem In,Stream Out
+Stefan,Berlin,Station1,,
+Shandor,Paris,Station2,rtsp://perform.aejaa.com:8560/mystream,rtmp://perform.aejaa.com:1936/live/test
+Markus,Toronto,Station3,rtsp://perform.aejaa.com:8555/mystream,rtmp://perform.aejaa.com:1937/live/test
+Vincent,LosAngeles,Station4,rtsp://perform.aejaa.com:8556/mystream,rtmp://perform.aejaa.com:1938/live/test
+Richard,Tokyo,Station5,rtsp://perform.aejaa.com:8557/mystream,rtmp://perform.aejaa.com:1939/live/test
+Roy,Amsterdam,Station6,,
